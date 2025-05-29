@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ginipet/static/css/main.0f75c3a7.css",
-    "main.js": "/ginipet/static/js/main.503ff4c2.js",
+    "main.js": "/ginipet/static/js/main.3a2d694d.js",
     "index.html": "/ginipet/index.html",
     "main.0f75c3a7.css.map": "/ginipet/static/css/main.0f75c3a7.css.map",
-    "main.503ff4c2.js.map": "/ginipet/static/js/main.503ff4c2.js.map"
+    "main.3a2d694d.js.map": "/ginipet/static/js/main.3a2d694d.js.map"
   },
   "entrypoints": [
     "static/css/main.0f75c3a7.css",
-    "static/js/main.503ff4c2.js"
+    "static/js/main.3a2d694d.js"
   ]
 }
